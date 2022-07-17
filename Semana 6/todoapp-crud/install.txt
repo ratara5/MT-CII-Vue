@@ -1,0 +1,12 @@
+Entre en la carpeta "server" y ejecute:
+npm install
+
+Luego en la misma carpeta ejecute:
+node index
+
+Seguido..
+Entre en la carpeta "client" y ejecute:
+npm install
+
+Luego en la misma carpeta ejecute:
+npm run serve
